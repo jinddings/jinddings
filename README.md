@@ -23,14 +23,6 @@
 
 # 📞 Contact 📞
 
-<style>
-    .container {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
-    }
-</style>
 <div class="container">
     <a href="https://jinddings.github.io">
       <img src="https://img.shields.io/badge/Tech blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
